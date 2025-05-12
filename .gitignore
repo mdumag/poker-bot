@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# macOS
+.DS_Store
+
+# Local venv
+venv/
+
+# pytest cache
+.pytest_cache/
